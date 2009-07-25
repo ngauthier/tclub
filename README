@@ -1,1 +1,4 @@
 Johns Hopkins Tae Kwon Do Club Web site.
+
+Recursive download via command:
+wget -r http://jhu.edu/~tclub/
